@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Manuals Library\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-27 21:27+0100\n"
+"PO-Revision-Date: 2020-01-13 09:54+0000\n"
+"Last-Translator: labarta <labarta31@gmail.com>\n"
+"Language-Team: Español\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. Description of the plugin
+msgid ""
+"This plugin creates the \"Documents\" page to see a list of the titles of "
+"all the Documents and also create the \"Thematics\" page to view the list of "
+"Documents through the  categories."
+msgstr ""
+"Este plugin crea la página \"Documents\" para ver una lista de los títulos "
+"de todos los documentos y también crea la página \"Thematics\" para ver la "
+"lista de documentos por categorías."
+
+#: wp-documents-library.php:53
+msgctxt "Post Type General Name"
+msgid "Documents"
+msgstr "Documentos"
+
+#: wp-documents-library.php:54
+msgctxt "Post Type Singular Name"
+msgid "Document"
+msgstr "Documento"
+
+#: wp-documents-library.php:55 wp-documents-library.php:56
+msgctxt "wpdlib"
+msgid "Documents"
+msgstr "Documentos"
+
+#: wp-documents-library.php:57
+msgid "Document Archives"
+msgstr "Archivo de documentos"
+
+#: wp-documents-library.php:58
+msgid "Document Attributes"
+msgstr "Atributos de los documentos"
+
+#: wp-documents-library.php:59
+msgid "Parent Document:"
+msgstr "Documento superior"
+
+#: wp-documents-library.php:60
+msgid "All Documents"
+msgstr "Todos los documentos"
+
+#: wp-documents-library.php:61
+msgid "Add New Document"
+msgstr "Añadir nuevo documento"
+
+#: wp-documents-library.php:62
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: wp-documents-library.php:63
+msgid "New Document"
+msgstr "Nuevo documento"
+
+#: wp-documents-library.php:64
+msgid "Edit Document"
+msgstr "Editar documento"
+
+#: wp-documents-library.php:65
+msgid "Update Document"
+msgstr "Actualizar documento"
+
+#: wp-documents-library.php:66
+msgid "View Document"
+msgstr "Ver documento"
+
+#: wp-documents-library.php:67
+msgid "View Documents"
+msgstr "Ver documentos"
+
+#: wp-documents-library.php:68
+msgid "Search Document"
+msgstr "Buscar documento"
+
+#: wp-documents-library.php:69
+msgid "Not found"
+msgstr "No encontrado"
+
+#: wp-documents-library.php:70
+msgid "Not found in Trash"
+msgstr "No encontrado en la papelera"
+
+#: wp-documents-library.php:71
+msgid "Featured Image"
+msgstr "Imagen destacda"
+
+#: wp-documents-library.php:72
+msgid "Set featured image"
+msgstr "Establecer imagen destacada"
+
+#: wp-documents-library.php:73
+msgid "Remove featured image"
+msgstr "Eliminar imagen destacada"
+
+#: wp-documents-library.php:74
+msgid "Use as featured_image"
+msgstr "Usar como imagen destacada"
+
+#: wp-documents-library.php:75
+msgid "Insert into document"
+msgstr "Insertar en el documento"
+
+#: wp-documents-library.php:76
+msgid "Uploaded to this document"
+msgstr "Este documento ha sido subido"
+
+#: wp-documents-library.php:77
+msgid "Documents list"
+msgstr "Listado de documentos"
+
+#: wp-documents-library.php:78
+msgid "Documents list navigation"
+msgstr "Lista de navegación de documentos"
+
+#: wp-documents-library.php:79
+msgid "Filter documents list"
+msgstr "Filtrar lista de documentos"
+
+#: wp-documents-library.php:90 includes/wpdlib-taxonomies.php:111
+msgid "Document"
+msgstr "Documento"
+
+#: wp-documents-library.php:91 includes/wpdlib-metabox.php:60 
+#: includes/wpdlib-metabox.php:174
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/wpdlib-editor.php:14
+msgid "WP Editor"
+msgstr "Editor WP"
+
+#: includes/wpdlib-lists.php:9 includes/wpdlib-taxonomies.php:91
+msgid "Uncategorized"
+msgstr "Sin categoría"
+
+#: includes/wpdlib-lists.php:25
+msgid "No categories"
+msgstr "No hay categorías"
+
+#: includes/wpdlib-lists.php:113
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: includes/wpdlib-lists.php:115
+msgid "Search"
+msgstr "Buscar"
+
+#: includes/wpdlib-metabox.php:14
+msgid "Details Documents"
+msgstr "Detalles del documento:"
+
+#: includes/wpdlib-metabox.php:30
+msgid "Select a format"
+msgstr "Selecciona un formato"
+
+#: includes/wpdlib-metabox.php:51
+msgid "Title: "
+msgstr "Título:"
+
+#: includes/wpdlib-metabox.php:52 includes/wpdlib-metabox.php:168
+msgid "Title"
+msgstr "Título"
+
+#: includes/wpdlib-metabox.php:55
+msgid "Author: "
+msgstr "Autor:"
+
+#: includes/wpdlib-metabox.php:56 includes/wpdlib-metabox.php:171
+msgid "Author"
+msgstr "Autor"
+
+#: includes/wpdlib-metabox.php:59
+msgid "Description: "
+msgstr "Descripción:"
+
+#: includes/wpdlib-metabox.php:63
+msgid "Format: "
+msgstr "Formato:"
+
+#: includes/wpdlib-metabox.php:71
+msgid "Pages: "
+msgstr "Páginas:"
+
+#: includes/wpdlib-metabox.php:72 includes/wpdlib-metabox.php:180
+msgid "Pages"
+msgstr "Páginas"
+
+#: includes/wpdlib-metabox.php:75
+msgid "Archive: "
+msgstr "Archivo:"
+
+#: includes/wpdlib-metabox.php:76
+msgid "Archive URL"
+msgstr "URL del archivo"
+
+#: includes/wpdlib-metabox.php:79
+msgid "Image: "
+msgstr "Imagen:"
+
+#: includes/wpdlib-metabox.php:80
+msgid "Image URL"
+msgstr "URL de la imagen"
+
+#: includes/wpdlib-metabox.php:84
+msgid "Copy and paste this URL in archive or image: "
+msgstr "Copiar y pegar esta URL en \"Archivo\" o en \" Imagen\""
+
+#: includes/wpdlib-metabox.php:86
+msgid "Add Media"
+msgstr "A;adir objeto"
+
+#: includes/wpdlib-metabox.php:177
+msgid "Format"
+msgstr "Formato"
+
+#: includes/wpdlib-metabox.php:183
+msgid "Download document"
+msgstr "Descargar documento"
+
+#: includes/wpdlib-taxonomies.php:8
+msgctxt "Taxonomy General Name"
+msgid "Thematics"
+msgstr "Temáticas"
+
+#: includes/wpdlib-taxonomies.php:9
+msgctxt "Taxonomy Singular Name"
+msgid "Thematic"
+msgstr "Temática"
+
+#: includes/wpdlib-taxonomies.php:10
+msgid "Thematics"
+msgstr "Temáticas"
+
+#: includes/wpdlib-taxonomies.php:11
+msgid "Search_Thematics"
+msgstr "Buscar temáticas"
+
+#: includes/wpdlib-taxonomies.php:12
+msgid "All Thematics"
+msgstr "Todas las temáticas"
+
+#: includes/wpdlib-taxonomies.php:13
+msgid "Parent Thematic"
+msgstr "Temática principal"
+
+#: includes/wpdlib-taxonomies.php:14
+msgid "Parent Thematic:"
+msgstr "Temática principal:"
+
+#: includes/wpdlib-taxonomies.php:15
+msgid "Edit Thematic"
+msgstr "Editar temática"
+
+#: includes/wpdlib-taxonomies.php:16
+msgid "Update Thematic"
+msgstr "Actualizar temática"
+
+#: includes/wpdlib-taxonomies.php:17
+msgid "Add New Thematic"
+msgstr "Añadir nueva temática"
+
+#: includes/wpdlib-taxonomies.php:18
+msgid "New Thematic Name"
+msgstr "Nombre nueva temática"
+
+#: includes/wpdlib-taxonomies.php:19
+msgid "View Thematic"
+msgstr "Ver temática"
+
+#: includes/wpdlib-taxonomies.php:20
+msgid "Separate thematics with commas"
+msgstr "Separar las temáticas con comas"
+
+#: includes/wpdlib-taxonomies.php:21
+msgid "Add or remove thematics"
+msgstr "Añadir o eliminar temáticas"
+
+#: includes/wpdlib-taxonomies.php:22 includes/wpdlib-taxonomies.php:64
+msgid "Choose from the most used"
+msgstr "Buscar las más usadas"
+
+#: includes/wpdlib-taxonomies.php:23
+msgid "Popular thematics"
+msgstr "Temáticas más usadas"
+
+#: includes/wpdlib-taxonomies.php:24 includes/wpdlib-taxonomies.php:66
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: includes/wpdlib-taxonomies.php:25
+msgid "No thematics"
+msgstr "No hay temática"
+
+#: includes/wpdlib-taxonomies.php:26
+msgid "Thematics list"
+msgstr "Lista de temáticas"
+
+#: includes/wpdlib-taxonomies.php:27
+msgid "Thematics list navigation"
+msgstr "Lista de navegación de temáticas"
+
+#: includes/wpdlib-taxonomies.php:50
+msgctxt "Taxonomy General Name"
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: includes/wpdlib-taxonomies.php:51
+msgctxt "Taxonomy Singular Name"
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: includes/wpdlib-taxonomies.php:52
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: includes/wpdlib-taxonomies.php:53
+msgid "Search_Tags"
+msgstr "Buscar etiquetas"
+
+#: includes/wpdlib-taxonomies.php:54
+msgid "All Tags"
+msgstr "Todas las etiquetas"
+
+#: includes/wpdlib-taxonomies.php:57
+msgid "Edit Tag"
+msgstr "Editar etiqueta"
+
+#: includes/wpdlib-taxonomies.php:58
+msgid "Update Tag"
+msgstr "Actualizar etiqueta"
+
+#: includes/wpdlib-taxonomies.php:59
+msgid "Add New Tag"
+msgstr "Añadir nueva etiqueta"
+
+#: includes/wpdlib-taxonomies.php:60
+msgid "New Tag Name"
+msgstr "Nuevo nombre etiqueta"
+
+#: includes/wpdlib-taxonomies.php:61
+msgid "View Tag"
+msgstr "Ver etiqueta"
+
+#: includes/wpdlib-taxonomies.php:62
+msgid "Separate tags with commas"
+msgstr "Separar etiquetas por comas"
+
+#: includes/wpdlib-taxonomies.php:63
+msgid "Add or remove tags"
+msgstr "Añadir o eliminar etiquetas"
+
+#: includes/wpdlib-taxonomies.php:65
+msgid "Popular tags"
+msgstr "Etiquetas mas usadas"
+
+#: includes/wpdlib-taxonomies.php:67
+msgid "No tags"
+msgstr "No hay etiquetas"
+
+#: includes/wpdlib-taxonomies.php:68
+msgid "Tags list"
+msgstr "Listado de etiquetas"
+
+#: includes/wpdlib-taxonomies.php:69
+msgid "Tags list navigation"
+msgstr "Lista de navegación de etiquetas"

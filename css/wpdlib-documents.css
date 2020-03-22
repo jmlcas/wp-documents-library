@@ -1,0 +1,25 @@
+div.documents_post_type div.campos{
+	border: 1px solid #FF0000;
+	padding: 10px;
+}
+
+div span.red{
+	color: #FF0000;
+}
+
+div span.blue{
+	color: #0000FF;
+}
+
+img.image {
+    width: 150px;
+    float: left;
+}
+
+div.campos li {
+	margin-left: 180px;
+}
+
+a.boton {
+    margin-left: 50px;
+}
